@@ -1,3 +1,8 @@
 
 
-echo $´date´
+echo $`date`
+
+
+
+echo   welcome `whoami`
+
